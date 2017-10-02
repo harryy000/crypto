@@ -1,0 +1,69 @@
+{"Intraday.volincperc":{"$gte":10,"$lt":100000},"basevolume":{"$gte":100000,"$lt":1000000}}
+
+
+{"Intraday.totvolinctoday":{"$gte":30,"$lt":200},"basevolume":{"$gte":100000,"$lt":1000000}}
+
+
+{"Intraday.totvolinctoday":{"$gte":60,"$lt":200},"basevolume":{"$gte":100000,"$lt":1000000},"Intraday.totpriinctoday":{"$gte":10,"$lt":1000000}}
+
+totalincvolyest
+totalincpriyest
+finalvolyest
+finalpriceyest
+finalvolumelastweek
+finalprilastweek
+totalincvoltoday
+totalincpritoday
+latestvoltoday
+latetpricetoday
+
+algorithm for sending email
+
+if total volume increase or current volume inc is more than 70% and price is +ve and not yet 100% then send a mail
+if total volume increase or current volume inc is more than 50%
+if 
+
+vol/price
+price increase more than 20
+volume increase more than 20
+
+
+ if (vol_inc_perc >20 || pri_inc_perc>15 || tot_vol_inc_today > 70 || tot_pri_inc_today >20 || latestpricelagperc>20) {
+                                //if (doc.basevolume > 350000){
+                                    testalrt=data
+                                    
+                                //}
+                               }
+
+
+{"datte":20170919,"latestvolincperc":{"$gte":0,"$lt":1000},"totpriinctoday":{"$gte":15,"$lt":1000},"basevolume":{"$gte":100000,"$lt":100000000}}
+
+{"datte":20170917,"Intraday.usdpriceincperc":{"$gte":10,"$lt":1000},"basevolume":{"$gte":300000,"$lt":100000000}}
+
+
+within 10 minutes when the price change is more than 20 percent-the end of the day the price is around 55% high
+witghin 10 minutes when the price is more than 10
+
+
+1505853544
+
+
+
+
+latestpricelagpercent
+totpricelagpercentag
+
+{"datte":20170917,"latestpricelagperc":{"$gte":2,"$lt":1000},"basevolume":{"$gte":100000,"$lt":1000000}}
+
+{"datte":20170917,"totpricelagperctoday":{"$gte":20,"$lt":1000},"basevolume":{"$gte":100000,"$lt":5000000},"totvolinctoday":{"$gte":70,"$lt":1000000}}
+
+sri19@protonmail.com
+
+
+2092458.17
+
+2106240.0
+
+2107830.0
+
+2124317.64
